@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul Le</title>
+    <description></description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 13 Feb 2017 05:00:29 -0500</pubDate>
+    <lastBuildDate>Mon, 13 Feb 2017 05:00:29 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Symbols</title>
+        <description>
+</description>
+        <pubDate>Sat, 30 Jul 2016 00:00:00 -0400</pubDate>
+        <link>/mathematics-review/2016/07/30/Symbols.html</link>
+        <guid isPermaLink="true">/mathematics-review/2016/07/30/Symbols.html</guid>
+        
+        
+        <category>Mathematics-Review</category>
+        
+      </item>
+    
+      <item>
+        <title>Significant Figures</title>
+        <description>
+</description>
+        <pubDate>Sat, 30 Jul 2016 00:00:00 -0400</pubDate>
+        <link>/mathematics-review/2016/07/30/Significant-Figures.html</link>
+        <guid isPermaLink="true">/mathematics-review/2016/07/30/Significant-Figures.html</guid>
+        
+        
+        <category>Mathematics-Review</category>
+        
+      </item>
+    
+      <item>
+        <title>Scientific Notation</title>
+        <description>
+</description>
+        <pubDate>Sat, 30 Jul 2016 00:00:00 -0400</pubDate>
+        <link>/mathematics-review/2016/07/30/Scientific-Notation.html</link>
+        <guid isPermaLink="true">/mathematics-review/2016/07/30/Scientific-Notation.html</guid>
+        
+        
+        <category>Mathematics-Review</category>
+        
+      </item>
+    
+      <item>
+        <title>Introduction</title>
+        <description>
+</description>
+        <pubDate>Sat, 30 Jul 2016 00:00:00 -0400</pubDate>
+        <link>/introduction/2016/07/30/Introduction.html</link>
+        <guid isPermaLink="true">/introduction/2016/07/30/Introduction.html</guid>
+        
+        
+        <category>Introduction</category>
+        
+      </item>
+    
+      <item>
+        <title>Instantaneous Velocity and Acceleration</title>
+        <description>
+</description>
+        <pubDate>Sat, 30 Jul 2016 00:00:00 -0400</pubDate>
+        <link>/kinematics/2016/07/30/Instantaneous-Velocity-and-Acceleration.html</link>
+        <guid isPermaLink="true">/kinematics/2016/07/30/Instantaneous-Velocity-and-Acceleration.html</guid>
+        
+        
+        <category>Kinematics</category>
+        
+      </item>
+    
+      <item>
+        <title>Displacement and Velocity</title>
+        <description>
+</description>
+        <pubDate>Sat, 30 Jul 2016 00:00:00 -0400</pubDate>
+        <link>/kinematics/2016/07/30/Displacement-and-Velocity.html</link>
+        <guid isPermaLink="true">/kinematics/2016/07/30/Displacement-and-Velocity.html</guid>
+        
+        
+        <category>Kinematics</category>
+        
+      </item>
+    
+      <item>
+        <title>Algebra</title>
+        <description>
+</description>
+        <pubDate>Sat, 30 Jul 2016 00:00:00 -0400</pubDate>
+        <link>/mathematics-review/2016/07/30/Algebra.html</link>
+        <guid isPermaLink="true">/mathematics-review/2016/07/30/Algebra.html</guid>
+        
+        
+        <category>Mathematics-Review</category>
+        
+      </item>
+    
+  </channel>
+</rss>
